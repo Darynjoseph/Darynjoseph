@@ -23,7 +23,7 @@
 [twitter]: https://twitter.com/joshmadakor
 
 [instagram]: https://www.instagram.com/daryn_jayz/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/daryn_jay
 
 <!---
 Darynjoseph/Darynjoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
