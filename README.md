@@ -8,8 +8,11 @@
   - [Image Analysis Middleware](https://github.com/Darynjoseph/Image-Analysis-Middleware) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Darynjoseph/Packet-Delivery-Application)
-
-
+ 
+- <b>Certifications</b>
+  - [Introduction to Python](https://www.sololearn.com/certificates/CC-YXALZ0IN)
+  - [Python Developer](https://www.sololearn.com/certificates/CC-DQQQIU2E)
+  - [Coding for Data](https://www.sololearn.com/certificates/CC-PENVPPB8)
 <h2> 🤳 Connect with me:</h2>
 
 
