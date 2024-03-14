@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph! <br/><a href="https://github.com/Darynjoseph">Programmer</a>, <a href="https://www.linkedin.com/Darynjoseph/">Network Administrator</a>, <a href="https://github.com/Darynjoseph"> IoT Enthusiast</a>.
+<h1>Hi, I'm Joseph! <br/><a href="https://github.com/Darynjoseph">Programmer</a>, <a href="https://github.com/Darynjoseph">Network Administrator</a>, <a href="https://github.com/Darynjoseph"> IoT Enthusiast</a>.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
