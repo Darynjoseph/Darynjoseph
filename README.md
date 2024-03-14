@@ -6,6 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/Darynjoseph/Algorithms)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/Darynjoseph/Image-Analysis-Middleware) <b><i>(Potentially NSFW)</b></i>
+  - [Online Thrift Website](http://worldtradeflow.unaux.com/?i=) <b><i>(Using Wordpress)</b></i>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Darynjoseph/Packet-Delivery-Application)
  
@@ -13,6 +14,12 @@
   - [Introduction to Python](https://www.sololearn.com/certificates/CC-YXALZ0IN)
   - [Python Developer](https://www.sololearn.com/certificates/CC-DQQQIU2E)
   - [Coding for Data](https://www.sololearn.com/certificates/CC-PENVPPB8)
+  - [Fundamentals of AI Generations](https://learn.microsoft.com/api/achievements/share/en-us/JosephDaryn-8524/VKAX8CVM?sharingId=5BE421FCA2BCE79C))
+  - [Fundamentals of Azure OpenAI Services](https://learn.microsoft.com/api/achievements/share/en-us/JosephDaryn-8524/FZH9LEMX?sharingId=5BE421FCA2BCE79C)
+  - [Fundamentals of Azure AI Speech](https://learn.microsoft.com/api/achievements/share/en-us/JosephDaryn-8524/CW5JP6S9?sharingId=5BE421FCA2BCE79C)
+  - [Fundamentals of conversational language understanding](https://learn.microsoft.com/api/achievements/share/en-us/JosephDaryn-8524/3X65BLTH?sharingId=5BE421FCA2BCE79C)
+  - [Fundamentals of Machine Learning](https://learn.microsoft.com/api/achievements/share/en-us/JosephDaryn-8524/8R9GDD9W?sharingId=5BE421FCA2BCE79C)
+  - [Fundamentals of Computer Vision](https://learn.microsoft.com/api/achievements/share/en-us/JosephDaryn-8524/EJ2ANB3P?sharingId=5BE421FCA2BCE79C)
 <h2> 🤳 Connect with me:</h2>
 
 
